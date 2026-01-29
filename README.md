@@ -27,7 +27,6 @@ This project addresses a real-world industry problem and can be applied in:
 
 - Python
 - Scikit-learn
-- TensorFlow
 - NLTK
 - Pandas & NumPy
 
@@ -37,8 +36,8 @@ This project addresses a real-world industry problem and can be applied in:
 
 This project uses a **balanced fake news dataset** consisting of two classes:
 
-- **Fake News Dataset** (~12,000 articles)
-- **True News Dataset** (~12,000 articles)
+- **Fake News Dataset** (~20,000 articles)
+- **True News Dataset** (~20,000 articles)
 
 Each news article contains the following attributes:
 
